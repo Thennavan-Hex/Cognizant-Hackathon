@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593970555530",
+    "project_id": "signin-f71ce",
+    "storage_bucket": "signin-f71ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593970555530:android:c0284263a3f04631a39b73",
+        "android_client_info": {
+          "package_name": "com.example.park_co"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593970555530-gmv9r7s03u9cudgplbifug96doqrer1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoPTfawyjsB7OEP_HjoatQgf6rVOvvm7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593970555530-gmv9r7s03u9cudgplbifug96doqrer1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
